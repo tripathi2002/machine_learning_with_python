@@ -4,5 +4,7 @@
 **/.ipynb_checkpoints
 **/NumPy/.ipynb_checkpoints
 
+.DS_Store
 
-**/.DS_Store
+# Path: .gitignore
+/id_ed25519_*_key*
