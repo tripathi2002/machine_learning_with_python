@@ -1,0 +1,1 @@
+Matlab is a paid  one replacement of matlab is NumPy + SciPy + MatPlot lib 
