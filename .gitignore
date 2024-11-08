@@ -1,4 +1,4 @@
-.venv
+.venv*
 /2024
 /office
 **/.ipynb_checkpoints
